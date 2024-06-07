@@ -1,3 +1,5 @@
+'use strict';
+
 const tu_nombre = prompt ("CUAL ES TU NOMBRE?") ;
 alert ("Genial " + tu_nombre + ", gracias por tomarte unos minutos");
 
