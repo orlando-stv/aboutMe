@@ -1,25 +1,59 @@
 h1 {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-  font-size: 30px;
+  font-size: 40px;
   font-weight: bold;
   color: brown;
-  width: 200px;
+  text-align: center;
+  width: 300px;
   margin: 32px;
   padding: 5px;
   border: 1px solid black;
 }
 
+.titulo {
+  padding-top: 105px;
+  display: flex;
+  justify-content: center;
+}
+
 h2 {
-  margin: 20px;
+  margin: 15px;
   padding-top: 15px;
-  font-size: 24px;
+  font-size: 30px;
   font-weight: bold;
   color: rgb(45, 39, 39);
 }
 
 li {
   margin: 25px;
-  font-size: 16px;
+  font-size: 26px;
   font-weight: normal;
-  color: rgb(3, 12, 248);
+  color: #010455;
+}
+
+.datos {
+  width: 300px;
+  height: 250px;
+  border-radius: 15px;
+  background: gray;
+}
+
+.academico {
+  width: 300px;
+  height: 250px;
+  border-radius: 15px;
+  background: gray;
+}
+
+.laboral {
+  width: 300px;
+  height: 250px;
+  border-radius: 15px;
+  background: gray;
+}
+
+.globos {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
 }
