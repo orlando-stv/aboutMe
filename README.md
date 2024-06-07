@@ -9,4 +9,4 @@ Contruí una web con un propóstito: Me conozcan mi procedencia, mi campo labora
 
 ### Autor: Orlando Villoslada Flores
 
-!["Resultado de mi accessibility](img/accessibility.JPG){width=100px}
+!["Resultado de mi accessibility](img/accessibility2.JPG){width=100px}
