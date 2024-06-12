@@ -57,3 +57,24 @@ li {
   justify-content: space-evenly;
   align-items: center;
 }
+
+
+.contain {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.top_h2 {
+
+  display: flex;
+  justify-content: center;
+}
+
+.peliculas {
+
+  justify-content: center;
+  border: 1px solid black;
+  border-radius: 35px;
+  width: 400px;
+}
