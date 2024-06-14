@@ -18,5 +18,5 @@ Contruí una web con un propóstito: Me conozcan mi procedencia, mi campo labora
 
 # LABORATORIO 04
 
-- drive: https://github.com/MC6115/About-Me/pull/1
-- navigator: https://github.com/orlando-stv/aboutMe
+- Fui drive en: https://github.com/MC6115/About-Me/pull/1
+- fui navigator en: https://github.com/orlando-stv/aboutMe
